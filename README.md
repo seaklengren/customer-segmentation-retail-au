@@ -14,6 +14,13 @@ The business was sending the same marketing emails to every customer. This cause
 2. **Hidden Churn:** No way to see when high-spending customers stopped shopping.
 3. **Regional Gaps:** Missing growth opportunities in **NSW and VIC**.
 
+## 🧮 Methodology
+1. Data cleaning & exploration
+2. RFM calculation
+3. Scoring customers (1–5 scale)
+4. Segment classification
+5. Business insights & recommendations
+
 ---
 ## 🛠️ Tech Stack & Project Files
 
@@ -23,12 +30,13 @@ The business was sending the same marketing emails to every customer. This cause
 - **Version Control:** Git
 - **Hosting:** GitHub
 
+
+
 ### 📂 Quick Access
 | File | Description |
 | :--- | :--- |
-| 📊 **[Dataset](data/australian_retail_rfm_sample.csv)** | Raw AUD transaction history |
+| 📊 **[Dataset](data/australian_retail_rfm_sample.csv)** | Raw Simulated AUD 1400 transaction history |
 | 🐍 **[Source Code](src/rfm_analysis.py)** | Clean Python script for the analysis |
-| 📈 **[Segment Summary](outputs/rfm_segment_summary.csv)** | Key metrics for each customer group |
 | 🏆 **[Top Customers](outputs/rfm_top_customers.csv)** | Targeted list of high-value shoppers |
 
 ---

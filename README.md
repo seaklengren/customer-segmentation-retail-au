@@ -52,7 +52,7 @@ The business was sending the same marketing emails to every customer. This cause
 **Insight:** **NSW and VIC** drive over 55% of all national sales.
 **Goal:** Focus marketing budget on these two states to get the best return.
 
-![Segment Distribution](visuals/segment_distribution.png)
+![visuals/revenue_by_state](visuals/revenue_by_state.png)
 
 ### 3. The Churn Danger Zone
 **Insight:** We have high-spending customers who haven't shopped in over 60 days. This is our biggest opportunity to recover lost money.

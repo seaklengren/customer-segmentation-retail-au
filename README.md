@@ -36,8 +36,7 @@ The business was sending the same marketing emails to every customer. This cause
 | File | Description |
 | :--- | :--- |
 | 📊 **[Dataset](data/australian_retail_rfm_sample.csv)** | Raw Simulated AUD 1400 transaction history |
-| 🐍 **[Source Code](src/rfm_analysis.py)** | Clean Python script for the analysis |
-| 🏆 **[Top Customers](outputs/rfm_top_customers.csv)** | Targeted list of high-value shoppers |
+| 🐍 **[Source Code](src/rfm_analysis.ipynb)** | Clean Python script for the analysis |
 
 ---
 

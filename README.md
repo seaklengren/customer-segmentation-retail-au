@@ -3,7 +3,6 @@
 
 ## 📌 Executive Summary
 **Date:** April 2026  
-**Analysis Period:** Jan 2025 – Dec 2025
 
 I developed a Customer Segmentation model for a leading Australian retailer to turn raw transaction data into a clear marketing roadmap. By analyzing over 220 unique customers, I identified **$62,000+ in revenue at risk** and created a strategy to improve customer retention and sales growth.
 
@@ -65,11 +64,17 @@ The business was sending the same marketing emails to every customer. This cause
 | **Loyal Customers** | Reward with points or referral bonuses | Increase how often they shop |
 
 ---
-
 ## 💡 Why This Project Matters
-- **Practical Results:** I translated complex code into a simple plan for a manager.
-- **AU Focus:** Specifically built for the Australian market and AUD currency.
-- **Clean Code:** Structured into organized folders so the analysis can be repeated easily.
+
+This project demonstrates how data analysis can directly impact business performance, not just generate reports.
+
+- **Drives Revenue Growth:** Identifies high-value customers (Champions) and shows how to retain and expand their spending.
+- **Reduces Customer Churn:** Detects "At Risk" customers early, enabling targeted actions to recover lost revenue.
+- **Improves Marketing Efficiency:** Moves away from generic campaigns to **data-driven, segmented strategies**.
+- **Supports Better Decision-Making:** Provides clear insights that marketing and business teams can act on immediately.
+- **Real-World Application:** Reflects real challenges faced by Australian retailers, including regional performance (NSW, VIC) and customer behaviour.
+
+👉 Overall, this project shows the ability to turn raw data into **practical business strategies that increase revenue and reduce costs**.
 
 ---
 

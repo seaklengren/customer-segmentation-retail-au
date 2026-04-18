@@ -1,4 +1,4 @@
-# 🇦🇺 Australian Retail Strategy: Customer Segmentation Analysis
+# Australian Retail Strategy: Customer Segmentation Analysis
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg) ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-orange.svg) ![Market](https://img.shields.io/badge/Focus-AU_Retail-green.svg)
 
 ## 📌 Executive Summary
